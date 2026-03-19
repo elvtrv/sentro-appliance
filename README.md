@@ -1,4 +1,4 @@
-# Sentro Appliance Repair
+# Sento Appliance Repair
 
 Professional appliance repair website for Sacramento, CA area.
 
